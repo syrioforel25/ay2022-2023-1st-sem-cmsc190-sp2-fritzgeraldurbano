@@ -1,0 +1,21 @@
+import 'package:firebase_auth/firebase_auth.dart';
+
+String currentUserID = FirebaseAuth.instance.currentUser!.uid;
+bool isNewUser = false;
+String? filterBatchYear;
+String? filterGender;
+String? filterLeaseDuration;
+String? filterNumberOfRoommates;
+String? filterCleanliness;
+String? filterSchedule;
+String? filterSleepSchedule;
+String? filterSmoking;
+String? filterDrinking;
+String? filterRoommateInteraction;
+String? filterGuest;
+String? filterPet;
+String? filterCooking;
+String? filterQuiet;
+String? filterMaxBudget;
+String? filterMinBudget;
+String fcmServerToken = "key=AAAAo_KNuIs:APA91bFG6mBGLn4KF3QxRSHBn2IoIhv5Bo3C2DmPTNoKlqPDjO2bZOUxZIuqJjnQGRzhlkiQ59mHZhSXNo_5q6Us3U4yKX2tEmy-XDTdaq5aQnnoEOhYa2diUKdA2BY4SPT_Kmpcgs5E";

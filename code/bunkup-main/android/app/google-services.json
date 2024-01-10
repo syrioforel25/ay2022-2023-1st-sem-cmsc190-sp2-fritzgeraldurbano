@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704149043339",
+    "project_id": "bunkup-5b2ac",
+    "storage_bucket": "bunkup-5b2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704149043339:android:160671c80e4a87ed6c7c8e",
+        "android_client_info": {
+          "package_name": "com.example.bunkup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704149043339-8umlasitunra9rvqg96lr4fpaje51eb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDzSGfeZHrQPQXyweDwkjurhqpEOJLaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704149043339-8umlasitunra9rvqg96lr4fpaje51eb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704149043339-htgij5old9ejivedf72opumik17936kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bunkup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
